@@ -53,4 +53,4 @@ Ex: Closes #12
 
 ---
 
-**Feito com ❤️ por [Seu Nome]**
+**Feito com ❤️ por [Tiago França]**

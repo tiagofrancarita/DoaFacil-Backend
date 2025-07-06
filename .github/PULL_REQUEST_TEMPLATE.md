@@ -15,7 +15,7 @@ Obrigado por contribuir com o projeto! Por favor, preencha as informações abai
 Marque com um `x` o que se aplica:
 
 - [ ] 🐛 Bugfix (Correção de um problema)
-- [ ] ✨ Nova funcionalidade
+- [x] ✨ Nova funcionalidade
 - [ ] ♻️ Refatoração de código
 - [ ] 🧪 Testes adicionados/ajustados
 - [ ] 📝 Documentação
@@ -26,7 +26,7 @@ Marque com um `x` o que se aplica:
 
 ## 📌 Checklist
 
-- [ ] Código está de acordo com o padrão do projeto
+- [x] Código está de acordo com o padrão do projeto
 - [ ] Testei localmente o que foi implementado
 - [ ] Adicionei ou atualizei testes, se aplicável
 - [ ] Adicionei comentários, quando necessário
@@ -42,14 +42,14 @@ Marque com um `x` o que se aplica:
 
 ## 📎 Referências
 
-> Informe o número da issue relacionada, se houver  
-Ex: Closes #12
+> Issue 1 e 2
 
 ---
 
 ## 💬 Observações
 
-> Alguma consideração extra? Alguma limitação técnica ou sugestão?
+> Deixei para pôr o Security e validações para depois, assim posso focar mais em apenas na funcionalidade
+> Acabei colocando o nome da branch errado pois só vi agora que deve ser colocado o nome da funcionalidade feita.
 
 ---
 

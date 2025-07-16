@@ -77,11 +77,11 @@ Estes são os colaboradores que já demonstraram interesse ou participaram da co
 
 - Tiago de França
 - Richard Janebo 
-- Leonardo Graut
+- Leonardo Graut 
+- Henrique Meneg
 - Charles Martins 
-*(Adicione seu nome ao contribuir!)*
-
----
+- 
+--
 
 ## 🤝 Contribuindo
 

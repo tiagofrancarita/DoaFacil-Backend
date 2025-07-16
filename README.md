@@ -79,9 +79,9 @@ Estes são os colaboradores que já demonstraram interesse ou participaram da co
 - Richard Janebo 
 - Leonardo Graut 
 - Henrique Meneg
-*(Adicione seu nome ao contribuir!)*
-
----
+- Charles Martins 
+- 
+--
 
 ## 🤝 Contribuindo
 
